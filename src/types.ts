@@ -38,7 +38,7 @@ export interface Products {
 export interface Product {
   price: string;
   name: string;
-  iamge: string;
+  image: string;
   rating: number;
 }
 
